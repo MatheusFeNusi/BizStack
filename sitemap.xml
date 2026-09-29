@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Monetized pages (safe for paid traffic / AI Max final URLs) -->
+  <url><loc>https://bizstack.example.com/real-estate-automation/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-automation/gohighlevel/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-crm/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-crm/best-crm-for-realtors/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-crm/gohighlevel-setup/</loc></url>
+  <url><loc>https://bizstack.example.com/ai-receptionist-real-estate/missed-call-text-back/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-chatbot/</loc></url>
+  <url><loc>https://bizstack.example.com/lead-follow-up/</loc></url>
+  <!-- Non-monetized pages (organic only — exclude from final URL expansion) -->
+  <url><loc>https://bizstack.example.com/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-automation/what-to-automate-first/</loc></url>
+  <url><loc>https://bizstack.example.com/ai-receptionist-real-estate/</loc></url>
+  <url><loc>https://bizstack.example.com/ai-receptionist-real-estate/hire-or-build/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-chatbot/website-chatbot/</loc></url>
+  <url><loc>https://bizstack.example.com/real-estate-chatbot/chatbot-vs-form/</loc></url>
+  <url><loc>https://bizstack.example.com/lead-follow-up/follow-up-sequence/</loc></url>
+  <url><loc>https://bizstack.example.com/lead-follow-up/speed-to-lead/</loc></url>
+  <url><loc>https://bizstack.example.com/monetized-pages.html</loc></url>
+</urlset>
